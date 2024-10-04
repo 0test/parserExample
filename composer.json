@@ -1,0 +1,13 @@
+{
+    "name": "andre/parser",
+    "autoload": {
+        "psr-4": {
+            "Andre\\Parser\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "imangazaliev/didom": "^2.0",
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
