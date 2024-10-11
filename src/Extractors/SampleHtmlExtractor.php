@@ -10,7 +10,7 @@ use Andre\Parser\Interface\Extractor;
  * отдаёт дальше
  * 
  */
-class SampleExtractor implements Extractor
+class SampleHtmlExtractor implements Extractor
 {
 
     protected $result;

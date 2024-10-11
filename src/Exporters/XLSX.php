@@ -1,6 +1,6 @@
 <?php
 
-namespace Andre\Parser\Exporter;
+namespace Andre\Parser\Exporters;
 
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 use PhpOffice\PhpSpreadsheet\IOFactory;

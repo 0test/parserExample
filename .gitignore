@@ -1,3 +1,5 @@
 vendor
 export
 log.txt
+sources/*
+!sources/news.xml
